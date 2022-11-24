@@ -1,7 +1,7 @@
 
 # Responsive E-mail
 
-![preview](./images/preview-img.png)
+![preview](./preview-img.png)
 
 a basic design for responsive e-mail
 
